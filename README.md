@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @d0nda
+- Frontend Developer
 - HTML / CSS / JAVASCRIPT / PYTHON
 
 <!---
