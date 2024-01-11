@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">A self-taught frontend developer from south africa | Open Source<br><br>- 🔭 I’m currently working on [ispaan](https://github.com/d0nda/ispaan) <br>- 📚 I’m currently learning **Typescript**<br>- ⚡ Ask me about **html,css,javascript**</p>
+<p align="left">A self-taught frontend developer from south africa | Open Source<br><br>- 🔭 I’m currently working on [ispaan](https://github.com/d0nda/ispaan) <br>- 📚 I’m currently learning **Typescript**<br>
 
 ###
 
