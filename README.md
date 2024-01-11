@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/79589014?s=400&u=15c39fb014febc6af2d8247b9e91e9cac0b8b20a&v=4"  />
+  <img height="92" src="https://avatars.githubusercontent.com/u/79589014?s=400&u=15c39fb014febc6af2d8247b9e91e9cac0b8b20a&v=4"  />
 </div>
 
 ###
@@ -37,7 +37,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
