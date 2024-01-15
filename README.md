@@ -32,8 +32,8 @@
 <div align="center">
   <table>
   <tr>
-    <td valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="200" alt="html5 logo"/></td>
-    <td valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="200" alt="css3 logo"/></td>
+    <td valign="top"><img align="left" width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"/></td>
+    <td valign="top"><img align="right" width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="200" alt="css3 logo"/></td>
     <td valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/></td>
     <td valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/></td>
     <td valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/></td>
