@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">Full-Stack Engineer from south africa | Open Source<br><br>- 🔭 I’m currently working on [iSpaan](https://github.com/d0nda/ispaan/)</p> <br>
+<p align="left">Full-Stack Engineer from south africa | Open Source<br><br></p>
+- 🔭 I’m currently working on [iSpaan](https://github.com/d0nda/ispaan/)
 
 ###
 
