@@ -27,26 +27,10 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+<p align="center">
+<img src="[https://skillicons.dev/icons?i=html,css,js,react,nextjs,boostrap,tailwindcss,mongodb,express,nodejs,git,github,vscode&perline=8](https://skillicons.dev/icons?i=react,js,python,django,nodejs,tailwindcss,express,postgres,shell,html,css,git,github,vscode,bootstrap&perline=8)">
+</p>
 
-
-<div align="center">
-  <table>
-  <tr>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="css3 logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo"/></td>
-    <td valign="top"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo"/></td>
-  </tr>
-</table>
-</div>
 
 ###
 
