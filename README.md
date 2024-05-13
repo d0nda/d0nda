@@ -29,7 +29,7 @@
 ###
 
 <p align="center">
-<img src="[https://skillicons.dev/icons?i=html,css,js,react,nextjs,boostrap,tailwindcss,mongodb,express,nodejs,git,github,vscode&perline=8](https://skillicons.dev/icons?i=react,js,python,django,nodejs,tailwindcss,express,postgres,shell,html,css,git,github,vscode,bootstrap&perline=8)">
+<img src="[https://skillicons.dev/icons?i=html,css,js,react,nextjs,boostrap,tailwindcss,mongodb,express,nodejs,git,github,vscode&perline=8](https://skillicons.dev/icons?i=html,css,js,react,nextjs,boostrap,tailwindcss,mongodb,express,nodejs,git,github,vscode&perline=8)">
 </p>
 
 
