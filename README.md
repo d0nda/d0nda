@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">Full-Stack Engineer from south africa | Open Source<br><br>- 🔭 I’m currently working on [ispaan] (https://github.com/d0nda/ispaan) <br>
+<p align="left">Full-Stack Engineer from south africa | Open Source<br><br>- 🔭 I’m currently working on [ispaan](https://github.com/d0nda/ispaan)</p> <br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
