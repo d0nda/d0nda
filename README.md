@@ -24,11 +24,11 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwindcss,mongodb,express,nodejs,git,github,vscode&perline=8">
 </p>
 
