@@ -22,7 +22,7 @@
 
 <p align="left">Full-Stack Developer from south africa | Open Source</p>
 
-- 🔭 I’m currently working on [Blokkfolio](https://github.com/d0nda/blokkfolio/)
+- 🔭 I’m currently working on [Blokkfolio](https://blokkfolio.vercel.app)
  <br><br>
 
 ###
