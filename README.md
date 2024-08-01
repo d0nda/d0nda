@@ -22,7 +22,7 @@
 
 <p align="left">Full-Stack Developer from south africa | Open Source</p>
 
-- 🔭 I’m currently working on [iSpaan](https://github.com/d0nda/ispaan/)
+- 🔭 I’m currently working on [Blokkfolio](https://github.com/d0nda/blokkfolio/)
  <br><br>
 
 ###
