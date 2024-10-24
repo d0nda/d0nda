@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer from south africa | Open Source</p>
+<p align="left">Full-Stack Developer from south africa </p>
 
 - 🔭 I’m currently working on [Bloqpage](https://bloqpage.com)
  <br><br>
