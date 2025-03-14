@@ -16,7 +16,7 @@
 
 <p align="left">Full-Stack Developer from south africa </p>
 
-- 🔭 I’m currently working on [Bloqpage](https://bloqpage.com)
+- 🔭 I’m currently working on [Bloqpage]
  <br><br>
 
 ###
